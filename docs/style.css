@@ -1,10 +1,10 @@
-body{
-    background-color: red
+body {
+    background: red
 }
-h1{
+h1 {
     font-size: large;
     color: blue;
 }
-a{
+a {
     color: brown;
 }

@@ -1,14 +1,14 @@
 body {
-    color: blue;
-    background:green;
-    margin: 50px;
+    color: green;
+    background:orange;
+    margin: 500px;
 }
 h1 {
     font-size: large;
     color: blue;
 }
 a {
-    color: brown;
+    color: black;
 }
 img{
     border: 1px solid #ddd;

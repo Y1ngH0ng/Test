@@ -1,6 +1,0 @@
-find if there were any &,<,>
-\n{2,} replace with </line>\n\n<line>
-move</line> from top to end
-^<line>  {1,}([IVXCL]+)</line> replace with </sec>\n\n<sec num="\1">
-move </sec> down the to last section
-then add a root element and end element with it
